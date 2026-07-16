@@ -127,7 +127,8 @@ http://localhost/sicalweb
 
 ## 👨‍🎓 Dikembangkan Oleh
 
-**Destinawati Hura**
+**Etty Destinawati Hura**
+230416005
 
 Program Studi Sistem Informasi
 
@@ -137,7 +138,11 @@ Universitas Sari Mutiara Indonesia
 
 ## 📄 Lisensi
 
-Project ini dibuat sebagai tugas akademik pada Program Studi Sistem Informasi Universitas Sari Mutiara Indonesia.
+Project ini dikembangkan sebagai bagian dari tugas mata kuliah **Rekayasa Perangkat Lunak** pada Program Studi Sistem Informasi, Universitas Sari Mutiara Indonesia.
+
+Tujuan pengembangan sistem ini adalah untuk menyediakan media yang terintegrasi dalam pengelolaan data alumni, pelaksanaan tracer study, penyebaran informasi lowongan kerja, serta penyajian laporan yang dapat mendukung evaluasi mutu lulusan dan pengembangan layanan Career Center di lingkungan Universitas Sari Mutiara Indonesia.
+
+Project ini digunakan untuk keperluan akademik dan pembelajaran.
 
 ---
 
@@ -148,12 +153,15 @@ Halaman Utama
 - Video Profil USM Indonesia
 - Lowongan Kerja
 - Direktori Alumni
+- Login
 
 Dashboard Admin
-- Statistik Alumni
-- Statistik Tracer Study
-- Statistik Survey Pengguna
-- Kelola Data
+- Kelola Alumni
+- Kelola Lowongan
+- Laporan Pra Tracer
+- Laporan Tracer Study
+- Laporan Survey
+- Pencarian / Validasi Alumni
 
 ---
 
